@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/shaun-sweet/sweet-configs/compare/v1.1.0...v1.1.1) (2019-06-07)
+
+
+### Bug Fixes
+
+* **webpack:** fix distribution to use es5 ([c15b208](https://github.com/shaun-sweet/sweet-configs/commit/c15b208))
+
 # [1.1.0](https://github.com/shaun-sweet/sweet-configs/compare/v1.0.6...v1.1.0) (2019-06-07)
 
 
