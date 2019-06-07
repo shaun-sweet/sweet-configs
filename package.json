@@ -21,6 +21,10 @@
     "cz-conventional-changelog": "^2.1.0",
     "semantic-release": "^15.13.12"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
