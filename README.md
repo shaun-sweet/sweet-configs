@@ -5,10 +5,16 @@
 
 # Table of Contents
 1. [Installation](#installation)
-2. [Typescript](#typescript)
+2. [Usage](#usage)
+  a. [Typescript](#typescript)
+  b. [Webpack Configs](#webpack-configs)
+    - [Typescript Loader](#typescript-loader)
+
 
 ## Installation
 `npm i -D sweet-configs`
+
+## Usage
 
 ## Typescript
 ```json
@@ -21,4 +27,19 @@
   },
   "extends": "./node_modules/sweet-configs/typescript/tsconfig.json",
 }
+```
+
+## Webpack Configs
+
+### Typescript Loader
+```javascript
+const typescriptWebpack = require("./node_modules/sweet-default-configs/webpack/typescript.js");
+const merge = require("webpack-merge");
+module.exports = merge(typescriptWebpack, {
+  entry: "./src/index.ts",  // Pass in your own entry point, can be .jsx
+  output: {
+    filename: "bundle.js",
+    path: __dirname + "/dist"
+  },
+});
 ```
