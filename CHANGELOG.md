@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/shaun-sweet/sweet-configs/compare/v1.1.1...v1.1.2) (2019-06-07)
+
+
+### Bug Fixes
+
+* **webpack:** removed entry/output from tsc ([1403e80](https://github.com/shaun-sweet/sweet-configs/commit/1403e80))
+
 ## [1.1.1](https://github.com/shaun-sweet/sweet-configs/compare/v1.1.0...v1.1.1) (2019-06-07)
 
 
