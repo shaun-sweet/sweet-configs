@@ -19,7 +19,7 @@
     "jsx": "preserve", // preserving JSX
     "lib": ["dom", "es2017"], // you will need to include polyfills for es2017 manually
     "skipLibCheck": true,
-    "types": ["jest"], // which global types to use
+    "types": ["react", "jest"], // which global types to use
     "target": "es5", // "es2015" for ES6+ engines
     "module": "esnext", // "es2015" for tree-shaking
     "moduleResolution": "node",
