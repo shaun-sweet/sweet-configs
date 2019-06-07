@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
+    "cz": "git-cz",
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
   },
