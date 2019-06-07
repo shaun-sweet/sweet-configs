@@ -1,6 +1,6 @@
 {
   "name": "sweet-default-configs",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.5",
   "description": "Reasonable Default Configurations",
   "main": "index.js",
   "scripts": {
