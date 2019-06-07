@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/shaun-sweet/sweet-configs/compare/v1.0.5...v1.0.6) (2019-06-07)
+
+
+### Bug Fixes
+
+* **package.json:** fix to make sure npm releases ([180dd51](https://github.com/shaun-sweet/sweet-configs/commit/180dd51))
+
 ## [1.0.5](https://github.com/shaun-sweet/sweet-configs/compare/v1.0.4...v1.0.5) (2019-06-07)
 
 
