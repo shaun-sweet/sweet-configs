@@ -1,10 +1,12 @@
 {
   "name": "sweet-configs",
-  "version": "0.0.0-development",
+  "version": "0.0.0-semantically-released",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
+    "cz": "git-cz",
+    "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
   },
   "author": "shaun sweet",
