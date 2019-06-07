@@ -1,0 +1,7 @@
+## [1.0.5](https://github.com/shaun-sweet/sweet-configs/compare/v1.0.4...v1.0.5) (2019-06-07)
+
+
+### Bug Fixes
+
+* **package.json:** updated packages ([1b05221](https://github.com/shaun-sweet/sweet-configs/commit/1b05221))
+* **readme:** altered CI ([9cef4bf](https://github.com/shaun-sweet/sweet-configs/commit/9cef4bf))
