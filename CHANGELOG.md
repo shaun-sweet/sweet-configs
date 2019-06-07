@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/shaun-sweet/sweet-configs/compare/v1.1.2...v1.1.3) (2019-06-07)
+
+
+### Bug Fixes
+
+* **typescript:** turn declarations on ([8f5d920](https://github.com/shaun-sweet/sweet-configs/commit/8f5d920))
+
 ## [1.1.2](https://github.com/shaun-sweet/sweet-configs/compare/v1.1.1...v1.1.2) (2019-06-07)
 
 
