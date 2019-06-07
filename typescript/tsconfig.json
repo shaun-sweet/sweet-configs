@@ -10,7 +10,7 @@
     "esModuleInterop": true, // enable to do "import React ..." instead of "import * as React ..."
     "allowJs": true, // include js files
     "checkJs": false, // typecheck js files
-    "declaration": false, // don't emit declarations
+    "declaration": true, // emit declarations
     "emitDecoratorMetadata": true, // include only if using decorators
     "experimentalDecorators": true, // include only if using decorators
     "forceConsistentCasingInFileNames": true,
